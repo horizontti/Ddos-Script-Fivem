@@ -4,8 +4,6 @@ use strict;
 if ($#ARGV != 1) {
  print "
 
-
-Created By Mody404 Use: Perl FivemDos.pl IP TIME 
 ";
   exit(1);
 }
